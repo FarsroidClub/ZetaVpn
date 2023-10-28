@@ -1,10 +1,10 @@
 {
-"Title": "فیلترشکن پولی رو رایگان استفاده کن 😱🔥",
-"Description": "❌ فیلترشکن پولی v2net به ارزش ماهانه 1 میلیون مود شده و میتونی رایگان استفاده کنی ، بیا تو کانال تلگرام دانلود کن بدو تا جا نمونی 👇🏻",
-"Link": "tg://join?invite=hLRBxkwYzuw0OTM0",
-"ColorWave": "#673AB7",
-"Color": "#673AB7",
-"ColorWaveTwo": "#7E57C2",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://resolve?domain=Farsroid_Club",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "299736100381",
-"ShowTime": "4",
-"Button": " دانلود و عضویت اجباری ",
-"ButtonCancell": "  ",
-"Closure": "true",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
+"Closure": "false",
 "Show": "on"
 }
